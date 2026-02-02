@@ -6,6 +6,7 @@
 
 #include "modplug.h"
 #include "libmodplug.h"
+#include <SDL3/SDL.h>
 
 void ModPlug_Quit(void) {
 }
